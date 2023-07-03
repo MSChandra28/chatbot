@@ -1,0 +1,67 @@
+{"intents":[
+    {"tag": "greetings",
+     "patterns": ["hello","hey", "hi" ,"Hola","good day","what's up?","how is it going"],
+    "responses": [ "Hello!","Hey!","What can I do for you?"]
+    },
+{"tag": "goodbye",
+     "patterns": ["cya","See you later", "Goodbye" ,"I am Leaving","Have a good day","bye","I am gonna miss you","see ya"],
+    "responses": [ "I am gonna miss you too:(","Talk to you later","Goodbye!"]
+
+},
+{"tag": "age",
+     "patterns": ["how old are you?","how old is sarath", "how old is MSChandra" ,"What is your age","age?","how old","May I know your age?"],
+    "responses": [ "My owner Sarath is 20 years old","20 years","My age is same as my owner age"]
+},
+{"tag": "name",
+     "patterns": ["what is your name","what can I call you", "what's your name?" ,"Who are you?","May I know your name?","can you tell me your name?","name?"],
+    "responses": [ "My name is chari!.","I'm chari! ","I'm chari the assistant of sarath!"]
+},
+{"tag": "shop",
+     "patterns": ["Id like to buy something","What phone do you recommend?","What laptop do you recommend?", "what's the best os for gaming?" ,"Its my birthday what should I buy?","which processer is the best?"],
+    "responses": ["You can Google :)","My taste is some what bad :(","Ask my owner sarath he is good in this"]
+},
+{"tag": "hours",
+     "patterns": ["when you guys are open ?","what are your hours", "hours of operation" ,"how much long do you work?","whats your time limit?"],
+    "responses": ["24/7","All time available :)"]
+},
+{"tag": "love",
+     "patterns": ["whats your opinion on love?","Is love good are bad?", "Do you love anyone?"],
+    "responses": ["Time waste","Money waste","Hypothetical question :|"]
+},
+{"tag": "Web Series",
+     "patterns": ["Tell me some best web series","Recommend some good web series", "Some best web series of all time"],
+    "responses": ["Some of the web series like GOT(Game of Throns),HOTD(House of the Dragon,Breaking Bad,Better call saul,Dare Devil,Vikings,last of us and there are so many web series you can find in Netfix,Prime and hotstar too!"]
+},
+{"tag": "Movies",
+     "patterns": ["Recommend some best movies to watch","give me some best movie names", "Suggest me some best movies","tell me some of the best movie names","Could you suggest some best movie names to watch?"],
+    "responses": [ "you can watch some movies like inception,RRR,jai lava kusa,nannaku prematho and many you can find in Netfix ,prime or hotstar"]
+},
+{"tag": "education",
+     "patterns": ["what is Sarath's Qualification?","what is your eductional background?", "education?","Qualification?"],
+    "responses": ["Sarath Complited his Schooling in Sri Poojitha Public School With GPA of 9.7 , He pursued his intermediate in Narayana Junior Collage with 9.17 GPA and now he is currently pursuing his B.Tech in the stream of Computer Science And Engineering at Aditya Engineering Collage with current CGPA of 8.07"]
+},
+{"tag": "family",
+"patterns": ["Who are sarath's parents?","family?", "sarath's parents?"],
+"responses": [ "His Father's name is Mandava Naveen Kumar and MOther's name is Mandava Madhavi Latha","His Father's name is Mandava Naveen Kumar, Mother's name is Mandava Madhavi Latha and he also have a brother Bijay Surya"]
+},
+{"tag": "Gender",
+"patterns": ["Sex?","Gender?","Is sarath Male or female?","What is sarath's gender?"],
+"responses": [ "Male"]
+},
+{"tag": "Status",
+"patterns": ["Is sarath married?","is he single are Committed","Marriage Status?","Status?"],
+"responses": [ "Single!!!"]
+},
+{"tag": "Owner",
+"patterns": ["Who developed you?","who is your developer", "Who is your owner?"],
+"responses": [ "Mandava Sarath Chandra"]
+},
+{"tag": "Knowledge",
+"patterns": ["In what sarath is good?","what technical skills does sarath have?","technical skills?","in what platforms sarath is good?","technical background?","sarath's technical background?","Skills?","what are sarath's skills"],
+"responses": ["He is mostly good at programming languages like C++,Python,Java,C,HTML,JavaScript,SQL and techincally he is good in AWS Cloud,Redhat,Database and mechine learning "]
+},
+{"tag": "hoobies",
+"patterns": ["what are sarath's hoobies?","hoobies?","what does he do in his lesar time?","what he does for time pass?"],
+"responses": ["he usaually plays games like batminton , cricket and chess and also when he do coding and gains more knowledge on data structures and algorithms"]
+}
+]}
